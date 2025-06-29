@@ -15,8 +15,8 @@ I'm a Computer Science student learning programming.
 - [ ] Contribute to open source
 
 ## Contact
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- Email: ledionurcja@gmail.com
+- LinkedIn: Ledion Nurcja
 
 ---
 *This repository is part of my coding journey!*
